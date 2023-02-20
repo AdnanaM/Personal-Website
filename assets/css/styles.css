@@ -308,6 +308,10 @@ img {
   display: grid;
 }
 
+.in-progress{
+  opacity: 0.7;
+}
+
 .skills__info{
   grid-template-columns: repeat(3, 1fr);
   gap: 2.5rem 2rem;
