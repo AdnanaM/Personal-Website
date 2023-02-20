@@ -209,8 +209,8 @@ img {
   overflow: hidden;
   display: flex;
   justify-content: center;
-  /* align-items: flex-end; */
-  align-items: center;
+  align-items: flex-end;
+  /* align-items: center; */
 }
 
 .home__profile img{
